@@ -3,6 +3,7 @@ import styled from 'styled-components';
 import headerImg from '../../assets/header-image.jpg';
 
 export const Container = styled.div`
+  scroll-snap-align: start;
   width: 100%;
   height: 100vh;
   background: #121214 url(${headerImg}) no-repeat center;

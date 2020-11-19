@@ -15,8 +15,8 @@ const Section: React.FC<SectionProps> = ({
   background_url,
 }) => {
   return (
-    <Container style={{ backgroundColor: background_color }}>
-      <h2>{title}</h2>
+    <Container style={{ backgroundColor: '#fafafa' }}>
+      {/* <h2>{title}</h2> */}
       <Content {...{ background_url }}>{children}</Content>
     </Container>
   );

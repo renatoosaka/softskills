@@ -15,15 +15,16 @@ import { Container } from './styles';
 const Home: React.FC = () => {
   return (
     <>
-      <Header />
       <Container>
+        <Header />
         <Section
           title="O que são soft skills?"
           background_color="#333238"
           background_url={oqueSaoImg}
         >
           <div className="background" />
-          <div className="content" style={{ marginLeft: 32 }}>
+          <div className="content">
+            <h2>O que são soft skills?</h2>
             <strong>Competências Comportamentais</strong>
             <p>
               Soft skills são habilidades comportamentais de que você precisa
@@ -48,7 +49,8 @@ const Home: React.FC = () => {
           background_color="#3D3C42"
           background_url={comoDesenvolverImg}
         >
-          <div className="content" style={{ marginRight: 32 }}>
+          <div className="content">
+            <h2>Como desenvolver soft skills?</h2>
             <strong>Auto Conhecimento</strong>
             <p>
               Como as habilidades sociais não são técnicas, raramente são
@@ -83,7 +85,8 @@ const Home: React.FC = () => {
           background_url={porqueDesenvolverImg}
         >
           <div className="background" />
-          <div className="content" style={{ marginLeft: 32 }}>
+          <div className="content">
+            <h2>Porque desenvolver soft skills?</h2>
             <strong>Processo Seletivo</strong>
             <p>
               Com o no mercado de trabalho cada vez mais competitivo, bons
@@ -123,7 +126,8 @@ const Home: React.FC = () => {
           background_color="#6F6D78"
           background_url={pensamentoCriticoImg}
         >
-          <div className="content" style={{ marginRight: 32 }}>
+          <div className="content">
+            <h2>Pensamento Crítico</h2>
             <strong>A mais importante</strong>
             <p>
               Existem muitas vantagens estratégicas em contratar pessoas que
