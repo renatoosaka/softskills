@@ -20,6 +20,7 @@ export const Container = styled.div`
     line-height: 64px;
     color: #383a48;
     width: 360px;
+    text-shadow: 2px 0 4px rgba(255, 255, 255, 0.5);
   }
   h3 {
     font-size: 24px;
@@ -27,5 +28,6 @@ export const Container = styled.div`
     line-height: 34px;
     color: #383a48;
     width: 360px;
+    text-shadow: 2px 0 4px rgba(255, 255, 255, 0.5);
   }
 `;
