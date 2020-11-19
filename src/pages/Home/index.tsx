@@ -98,7 +98,7 @@ const Home: React.FC = () => {
             </p>
             <strong>Habilidades Sociais e Comportamentais</strong>
             <p>
-              Segundo estudo do site de recrutamento
+              Segundo estudo do site de recrutamento{' '}
               <a
                 href="https://www.careerbuilder.com/advice/the-skill-set-more-than-of-employers-want"
                 target="_blank"

@@ -76,5 +76,9 @@ export const Content = styled.div<ContentProps>`
         margin-top: 48px;
       }
     }
+    a {
+      color: #d2c93b;
+      text-decoration: none;
+    }
   }
 `;
