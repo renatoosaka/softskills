@@ -26,12 +26,11 @@ const Home: React.FC = () => {
           <div className="content" style={{ marginLeft: 32 }}>
             <strong>Competências Comportamentais</strong>
             <p>
-              Soft skills são competências comportamentais, ou seja, atributos
-              pessoais que você precisa ter para ser bem-sucedido no local de
-              trabalho. Em geral as soft skills estão relacionadas à sua
-              capacidade de interagir com outras pessoas no local de trabalho.
-              Elas também incluem a capacidade que você tem de trabalhar sob
-              pressão e se adaptar a novas situações.
+              Soft skills são habilidades comportamentais de que você precisa
+              para ter sucesso no local de trabalho. Em geral, as habilidades
+              pessoais referem-se à sua capacidade de interagir com outras
+              pessoas no local de trabalho. Isso inclui sua capacidade de
+              trabalhar sob pressão e se adaptar a novas situações
             </p>
             <strong>Inteligência Emocional</strong>
             <p>
@@ -52,10 +51,10 @@ const Home: React.FC = () => {
           <div className="content" style={{ marginRight: 32 }}>
             <strong>Auto Conhecimento</strong>
             <p>
-              Como as soft skills não são técnicas, elas dificilmente serão
+              Como as habilidades sociais não são técnicas, raramente são
               aprendidas apenas em sala de aula. Para desenvolvê-las, você
-              precisa primeiramente se conhecer bem, saber quais são seus pontos
-              fortes e também os pontos que precisa desenvolver para evoluir na
+              precisa primeiro se conhecer bem, saber onde estão seus pontos
+              fortes e quais pontos você precisa desenvolver para avançar em sua
               carreira.
             </p>
             <p>
@@ -64,16 +63,16 @@ const Home: React.FC = () => {
               talento desperdiçado.
             </p>
             <p>
-              Por meio do autoconhecimento, é possível descobrir os pontos
+              Através do autoconhecimento, é possível descobrir os pontos
               fortes, aprimorá-los, e revelar as características mais críticas,
               que precisam ser trabalhadas pela pessoa.
             </p>
             <strong>Emoções</strong>
             <p>
-              Conseguir administrar as próprias emoções é a melhor maneira de
-              diminuir o estresse e manter o foco. Realizar atividades
-              terapêuticas ou meditação, além de ajudar a manter o equilíbrio,
-              também auxilia muito nesse processo de autoconhecimento.
+              Gerenciar suas próprias emoções é a melhor maneira de reduzir o
+              estresse e manter o foco. Faça atividades de meditação, que além
+              de ajudar a manter o equilíbrio também ajuda muito neste processo
+              de autodescoberta.
             </p>
           </div>
           <div className="background" />
@@ -87,28 +86,35 @@ const Home: React.FC = () => {
           <div className="content" style={{ marginLeft: 32 }}>
             <strong>Processo Seletivo</strong>
             <p>
-              Em um mercado de trabalho que se torna cada vez mais competitivo,
-              bons currículos e qualificações não são mais suficientes para
-              conquistar a vaga desejada.
+              Com o no mercado de trabalho cada vez mais competitivo, bons
+              currículos e qualificações não são mais suficientes para alcançar
+              a posição desejada.
             </p>
             <p>
-              Até pouco tempo atrás, os processos seletivos fundamentavam-se
-              quase que exclusivamente na avaliação das chamadas hard skills ou
-              competências técnicas que podem ser adquiridas em capacitações e
-              acrescentadas ao currículo.
+              Até pouco tempo atrás, os procedimentos de seleção baseavam-se
+              quase inteiramente na avaliação das chamadas hard skills ou
+              capacitação técnicas, que podem ser adquiridas no treinamento e
+              incluídas no currículo.
             </p>
             <strong>Habilidades Sociais e Comportamentais</strong>
             <p>
-              Segundo estudo do site de recrutamento CareerBuilder, 77% das
-              empresas acreditam que as habilidades sociais são tão importantes
-              quanto as técnicas no dia a dia de trabalho.
+              Segundo estudo do site de recrutamento
+              <a
+                href="https://www.careerbuilder.com/advice/the-skill-set-more-than-of-employers-want"
+                target="_blank"
+                rel="noreferrer"
+              >
+                CareerBuilder
+              </a>
+              , 77% das empresas acreditam que as habilidades sociais são tão
+              importantes quanto as técnicas no dia a dia de trabalho.
             </p>
             <p>
               A consciência das emoções e o desenvolvimento das chamadas
-              competências comportamentais são fatores essenciais para o sucesso
-              do indivíduo. Por outro lado, a incapacidade de gerenciar as
-              próprias emoções pode prejudicar gravemente a performance
-              profissional e o desempenho corporativo.
+              habilidades comportamentais são fatores essenciais para o sucesso
+              de um indivíduo. Por outro lado, a incapacidade de gerenciar as
+              emoções pode ter um impacto significativo no desempenho
+              profissional e corporativo.
             </p>
           </div>
         </Section>
@@ -126,8 +132,9 @@ const Home: React.FC = () => {
               essencial. É aí que entram, por exemplo, as habilidades de
               comunicação e trabalho em equipe. Se os profissionais do time
               tiverem essas competências, fica fácil estabelecer um dia a dia
-              produtivo e harmonioso. Porem a soft skill que considero mais
-              importante é o pensamento crítico.
+              produtivo e harmonioso. Dentre todas as mais variadas skills a que
+              acredito que mais faça diferença no ambiente de trabalho é o
+              pensamento crítico.
             </p>
 
             <strong>Olhar de fora</strong>
@@ -143,10 +150,10 @@ const Home: React.FC = () => {
             </p>
             <strong>Super poderes</strong>
             <p>
-              Pensar de maneira crítica também envolve ser criativo e inovador.
-              Logo, essa única atitude tem um impacto enorme em todo o seu
-              trabalho, afinal, o torna um solucionador de problemas e também um
-              fornecedor de ideias inovadoras.
+              O pensamento crítico também inclui criatividade e inovação Essa
+              atitude única tem um enorme impacto em todo o seu trabalho e o
+              torna um solucionador de problemas e um fornecedor de ideias
+              inovadoras.
             </p>
           </div>
           <div className="background" />
